@@ -1,0 +1,19 @@
+Variables: 
+Las variables son como una caja donde gurdaremos informacion a la cual le
+asignamos nombres para ubicar los datos.
+
+Strings:
+Son cadenas de texto o conjunto de caracteres dentro de una variable.
+
+Funciones (argumentos, return):
+Son instrucciones que realizan una tarea o calculan un valor. 
+para regresar un valor usamos la palabra return que devuelve un valor que podemos guardar en una variable.
+Los parametros o argumentos son los valores que utilizamos en la funcion para hacer algo.
+
+Declaraciones if:
+es un condicional que nos permite saber Si lo que ocurre dentro del parentesis es verdadero o falso.
+ se ejecuta lo que este dentro del parentesis o llaves.
+
+
+Valores booleanos (true, false):
+Nos ayudan a comparar o dar resultados si los contenido o variables son falsos o verdaderos.
